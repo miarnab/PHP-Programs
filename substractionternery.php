@@ -1,3 +1,4 @@
+<!-- input two numbers and print the substraction using ternary operator -->
 <?php
 $a=readline("Enter the first number: ");
 $b=readline("Enter the second number: ");

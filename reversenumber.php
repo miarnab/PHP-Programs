@@ -1,3 +1,4 @@
+<!-- input a number and print its reverse -->
 <?php
 $n=readline("Enter the number: ");
 $r=0;

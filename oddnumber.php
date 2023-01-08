@@ -1,3 +1,4 @@
+<!-- input two numbers as range and find the odd numbers and their count -->
 <?php
 $n=readline("Enter the last number: ");
 $count=0;

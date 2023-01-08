@@ -1,3 +1,4 @@
+<!-- input two numbers and find their quotient and remainder using ternary operator -->
 <?php
 $a=readline("Enter the first number: ");
 $b=readline("Enter the second number: ");
